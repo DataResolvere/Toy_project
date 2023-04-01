@@ -1,1 +1,2 @@
+- 코드 및 자세한 내용은 벨로그를 통해 확인이 가능합니다.
 - VelogLink : [Toy_projcet_velog](https://velog.io/@xswer19/series/MyToyProject)
